@@ -1,0 +1,473 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,global_label
+HAM_0002521,ISIC_0027828,bkl,histo,40.0,male,upper extremity,middle-aged male patient with bkl.
+HAM_0000164,ISIC_0029161,bkl,histo,60.0,male,chest,Patient presents with bkl in the chest.
+HAM_0002299,ISIC_0025819,bkl,histo,75.0,female,face,bkl lesion in the face of a elderly patient.
+HAM_0003569,ISIC_0027960,bkl,histo,75.0,male,unknown,Clinical image showing bkl on the unknown.
+HAM_0000907,ISIC_0025140,bkl,histo,75.0,male,ear,Patient's ear affected by bkl.
+HAM_0003410,ISIC_0024635,bkl,histo,60.0,female,face,The face shows signs of bkl (histo).
+HAM_0002985,ISIC_0025063,bkl,histo,85.0,male,face,Lesion observed on the face.
+HAM_0001665,ISIC_0027957,bkl,histo,50.0,male,lower extremity,bkl lesion in the lower extremity of a middle-aged patient.
+HAM_0000308,ISIC_0025136,bkl,histo,55.0,female,abdomen,bkl lesion in the abdomen of a middle-aged patient.
+HAM_0004958,ISIC_0027652,bkl,histo,70.0,male,neck,bkl (histo) on the neck.
+HAM_0001738,ISIC_0027218,bkl,histo,50.0,female,lower extremity,Lesion observed on the lower extremity.
+HAM_0002529,ISIC_0026298,bkl,histo,60.0,female,face,bkl (histo) on the face.
+HAM_0005440,ISIC_0027139,bkl,histo,65.0,male,back,Dermoscopic image of bkl in the back.
+HAM_0006325,ISIC_0027739,bkl,histo,50.0,male,lower extremity,Lesion observed on the lower extremity.
+HAM_0005693,ISIC_0027781,bkl,histo,80.0,male,back,Case of bkl confirmed via histo.
+HAM_0007439,ISIC_0024890,bkl,histo,60.0,female,upper extremity,Patient presents with bkl in the upper extremity.
+HAM_0001362,ISIC_0025838,bkl,histo,75.0,male,chest,elderly male patient with bkl.
+HAM_0005260,ISIC_0025485,bkl,histo,65.0,male,scalp,Medical image of bkl.
+HAM_0004274,ISIC_0025842,bkl,histo,60.0,female,neck,Clinical image showing bkl on the neck.
+HAM_0004501,ISIC_0028856,bkl,histo,65.0,male,back,This elderly male shows bkl on the back.
+HAM_0003913,ISIC_0027295,bkl,histo,60.0,male,hand,elderly male patient with bkl lesion.
+HAM_0000243,ISIC_0024445,bkl,histo,55.0,male,lower extremity,Medical image of bkl.
+HAM_0005935,ISIC_0028254,bkl,histo,70.0,female,chest,female patient showing signs of bkl.
+HAM_0004988,ISIC_0025659,bkl,histo,75.0,male,lower extremity,Medical image of bkl.
+HAM_0006580,ISIC_0025376,bkl,histo,75.0,male,back,histo-confirmed bkl lesion.
+HAM_0005125,ISIC_0024726,bkl,histo,65.0,male,back,bkl detected.
+HAM_0003766,ISIC_0027760,bkl,histo,80.0,male,face,Dermoscopic image of bkl in the face.
+HAM_0007591,ISIC_0025351,bkl,histo,75.0,male,upper extremity,elderly male patient with bkl.
+HAM_0002058,ISIC_0024893,bkl,histo,65.0,female,ear,female patient showing signs of bkl.
+HAM_0006399,ISIC_0026219,bkl,histo,60.0,female,back,This elderly female shows bkl on the back.
+HAM_0007603,ISIC_0029139,bkl,histo,60.0,male,unknown,Lesion observed on the unknown.
+HAM_0002722,ISIC_0027991,bkl,histo,55.0,male,back,Observed bkl on the back of a middle-aged male.
+HAM_0001938,ISIC_0026245,bkl,histo,45.0,female,lower extremity,Clinical image showing bkl on the lower extremity.
+HAM_0006595,ISIC_0028223,bkl,histo,55.0,female,face,bkl lesion in the face of a middle-aged patient.
+HAM_0006343,ISIC_0024997,bkl,histo,60.0,male,back,Image reveals bkl lesion in the back.
+HAM_0000425,ISIC_0026947,bkl,histo,50.0,male,scalp,Medical image of bkl.
+HAM_0002548,ISIC_0027470,bkl,histo,50.0,female,lower extremity,Dermoscopic image of bkl in the lower extremity.
+HAM_0006622,ISIC_0026072,bkl,histo,45.0,male,face,middle-aged male patient with bkl lesion.
+HAM_0004921,ISIC_0025389,bkl,histo,65.0,male,neck,histo-confirmed bkl lesion.
+HAM_0004423,ISIC_0027982,bkl,histo,65.0,female,upper extremity,Image reveals bkl lesion in the upper extremity.
+HAM_0006737,ISIC_0029302,bkl,histo,45.0,female,face,middle-aged female patient with bkl lesion.
+HAM_0006993,ISIC_0029206,bkl,histo,65.0,female,neck,Case of bkl confirmed via histo.
+HAM_0004695,ISIC_0028611,bkl,histo,80.0,female,lower extremity,bkl (histo) on the lower extremity.
+HAM_0001820,ISIC_0026744,bkl,histo,85.0,male,back,bkl detected.
+HAM_0000846,ISIC_0029115,bkl,histo,60.0,female,lower extremity,Detected bkl on the lower extremity.
+HAM_0007315,ISIC_0026249,bkl,confocal,75.0,male,face,Image reveals bkl lesion in the face.
+HAM_0000524,ISIC_0026069,bkl,confocal,65.0,female,face,The face shows signs of bkl (confocal).
+HAM_0003030,ISIC_0028876,bkl,consensus,75.0,female,face,female patient showing signs of bkl.
+HAM_0005404,ISIC_0028094,bkl,consensus,70.0,male,face,bkl lesion in the face of a elderly patient.
+HAM_0006099,ISIC_0026311,bkl,consensus,55.0,female,face,Medical image of bkl.
+HAM_0005580,ISIC_0029235,bkl,consensus,80.0,male,face,elderly male patient with bkl.
+HAM_0006770,ISIC_0028309,bkl,consensus,70.0,female,back,This elderly female shows bkl on the back.
+HAM_0002757,ISIC_0024909,bkl,consensus,85.0,female,face,elderly female patient with bkl lesion.
+HAM_0007381,ISIC_0027083,bkl,consensus,85.0,female,face,A consensus report confirms bkl in the face.
+HAM_0002984,ISIC_0024602,bkl,consensus,75.0,female,face,Observed bkl on the face of a elderly female.
+HAM_0001997,ISIC_0029251,bkl,consensus,70.0,female,abdomen,Case of bkl confirmed via consensus.
+HAM_0005616,ISIC_0029107,bkl,consensus,80.0,male,face,The face shows signs of bkl (consensus).
+HAM_0000121,ISIC_0027025,bkl,consensus,70.0,male,trunk,The trunk shows signs of bkl (consensus).
+HAM_0003691,ISIC_0027428,bkl,consensus,75.0,female,back,consensus-confirmed bkl lesion.
+HAM_0003715,ISIC_0026941,bkl,consensus,70.0,female,trunk,Dermoscopic image of bkl in the trunk.
+HAM_0007000,ISIC_0026042,bkl,consensus,75.0,male,chest,Patient's chest affected by bkl.
+HAM_0005874,ISIC_0027326,bkl,consensus,75.0,male,abdomen,Case of bkl confirmed via consensus.
+HAM_0004756,ISIC_0029248,df,histo,55.0,male,lower extremity,Patient's lower extremity affected by df.
+HAM_0006787,ISIC_0026471,df,consensus,60.0,male,lower extremity,elderly male patient with df lesion.
+HAM_0005112,ISIC_0024386,df,consensus,40.0,female,lower extremity,female patient showing signs of df.
+HAM_0000492,ISIC_0028445,mel,histo,75.0,male,abdomen,elderly male patient with mel.
+HAM_0001811,ISIC_0028069,mel,histo,35.0,female,neck,This adult female shows mel on the neck.
+HAM_0004910,ISIC_0026115,mel,histo,70.0,male,chest,Image reveals mel lesion in the chest.
+HAM_0004607,ISIC_0026150,mel,histo,50.0,female,back,The back shows signs of mel (histo).
+HAM_0000814,ISIC_0025751,mel,histo,65.0,male,back,male patient showing signs of mel.
+HAM_0003990,ISIC_0026360,mel,histo,60.0,male,back,Case of mel confirmed via histo.
+HAM_0001328,ISIC_0028442,mel,histo,75.0,male,unknown,This elderly male shows mel on the unknown.
+HAM_0002955,ISIC_0029212,mel,histo,75.0,female,lower extremity,Medical image of mel.
+HAM_0000417,ISIC_0025783,mel,histo,65.0,male,back,The back shows signs of mel (histo).
+HAM_0000796,ISIC_0028415,mel,histo,60.0,male,trunk,elderly male patient with mel lesion.
+HAM_0005752,ISIC_0028317,mel,histo,65.0,female,face,Clinical image showing mel on the face.
+HAM_0001741,ISIC_0026963,mel,histo,65.0,male,face,A histo report confirms mel in the face.
+HAM_0004593,ISIC_0024900,mel,histo,65.0,female,back,The back shows signs of mel (histo).
+HAM_0004767,ISIC_0025531,mel,histo,80.0,male,face,male patient showing signs of mel.
+HAM_0001753,ISIC_0024929,mel,histo,55.0,male,back,Dermoscopic image of mel in the back.
+HAM_0002491,ISIC_0028465,mel,histo,65.0,male,upper extremity,Clinical image showing mel on the upper extremity.
+HAM_0000917,ISIC_0024701,mel,histo,55.0,female,back,histo-confirmed mel lesion.
+HAM_0007091,ISIC_0027552,mel,histo,40.0,male,face,This middle-aged male shows mel on the face.
+HAM_0006088,ISIC_0028760,mel,histo,30.0,female,abdomen,female patient showing signs of mel.
+HAM_0000396,ISIC_0028481,mel,histo,70.0,male,lower extremity,Dermoscopic image of mel in the lower extremity.
+HAM_0006004,ISIC_0027702,mel,histo,70.0,female,back,Image reveals mel lesion in the back.
+HAM_0005747,ISIC_0027105,mel,histo,45.0,male,lower extremity,mel (histo) on the lower extremity.
+HAM_0002194,ISIC_0025814,mel,histo,65.0,male,back,Patient presents with mel in the back.
+HAM_0000619,ISIC_0026690,mel,histo,50.0,male,lower extremity,Observed mel on the lower extremity of a middle-aged male.
+HAM_0005735,ISIC_0025543,mel,histo,85.0,female,face,elderly female patient with mel.
+HAM_0006965,ISIC_0026475,mel,histo,40.0,female,back,mel lesion in the back of a middle-aged patient.
+HAM_0005471,ISIC_0028146,vasc,histo,60.0,female,back,female patient showing signs of vasc.
+HAM_0002610,ISIC_0026876,vasc,consensus,0.0,female,abdomen,Patient presents with vasc in the abdomen.
+HAM_0006748,ISIC_0027210,vasc,consensus,30.0,female,lower extremity,Detected vasc on the lower extremity.
+HAM_0006796,ISIC_0025707,vasc,consensus,35.0,male,trunk,Dermoscopic image of vasc in the trunk.
+HAM_0004409,ISIC_0027888,vasc,consensus,40.0,male,trunk,vasc lesion in the trunk of a middle-aged patient.
+HAM_0007568,ISIC_0024867,vasc,consensus,75.0,male,trunk,vasc detected.
+HAM_0003429,ISIC_0028807,bcc,histo,70.0,male,back,bcc lesion in the back of a elderly patient.
+HAM_0000687,ISIC_0028994,bcc,histo,85.0,male,lower extremity,elderly male patient with bcc.
+HAM_0001926,ISIC_0028095,bcc,histo,75.0,female,lower extremity,Patient presents with bcc in the lower extremity.
+HAM_0001907,ISIC_0025383,bcc,histo,40.0,male,back,bcc lesion in the back of a middle-aged patient.
+HAM_0005657,ISIC_0024572,bcc,histo,75.0,female,back,This elderly female shows bcc on the back.
+HAM_0005058,ISIC_0026324,bcc,histo,85.0,female,face,Patient presents with bcc in the face.
+HAM_0003186,ISIC_0027297,bcc,histo,70.0,male,face,Medical image of bcc.
+HAM_0003741,ISIC_0028980,bcc,histo,85.0,male,face,Clinical image showing bcc on the face.
+HAM_0004539,ISIC_0025617,bcc,histo,40.0,female,face,histo-confirmed bcc lesion.
+HAM_0003039,ISIC_0026350,bcc,histo,30.0,female,back,histo-confirmed bcc lesion.
+HAM_0003694,ISIC_0028818,bcc,histo,70.0,male,foot,A histo report confirms bcc in the foot.
+HAM_0004273,ISIC_0028059,bcc,histo,40.0,male,back,This middle-aged male shows bcc on the back.
+HAM_0005757,ISIC_0026496,bcc,histo,70.0,male,lower extremity,Dermoscopic image of bcc in the lower extremity.
+HAM_0005410,ISIC_0025433,bcc,histo,50.0,male,lower extremity,bcc (histo) on the lower extremity.
+HAM_0005835,ISIC_0025975,bcc,histo,40.0,male,back,Patient presents with bcc in the back.
+HAM_0005536,ISIC_0026798,bcc,histo,45.0,male,lower extremity,bcc lesion in the lower extremity of a middle-aged patient.
+HAM_0005971,ISIC_0024452,bcc,histo,40.0,male,back,Observed bcc on the back of a middle-aged male.
+HAM_0004487,ISIC_0028989,bcc,histo,65.0,male,lower extremity,histo-confirmed bcc lesion.
+HAM_0005268,ISIC_0027825,bcc,histo,55.0,male,chest,Detected bcc on the chest.
+HAM_0002689,ISIC_0029263,bcc,histo,60.0,male,lower extremity,elderly male patient with bcc.
+HAM_0004161,ISIC_0025564,bcc,histo,50.0,male,back,male patient showing signs of bcc.
+HAM_0001940,ISIC_0028502,nv,follow_up,45.0,female,abdomen,Lesion observed on the abdomen.
+HAM_0000128,ISIC_0024968,nv,follow_up,50.0,male,foot,Case of nv confirmed via follow_up.
+HAM_0003548,ISIC_0028480,nv,follow_up,55.0,male,back,male patient showing signs of nv.
+HAM_0005407,ISIC_0028090,nv,follow_up,55.0,male,lower extremity,middle-aged male patient with nv.
+HAM_0000576,ISIC_0025585,nv,follow_up,55.0,male,foot,Dermoscopic image of nv in the foot.
+HAM_0000408,ISIC_0027000,nv,follow_up,45.0,female,lower extremity,The lower extremity shows signs of nv (follow_up).
+HAM_0005661,ISIC_0025053,nv,follow_up,50.0,female,abdomen,middle-aged female patient with nv lesion.
+HAM_0005725,ISIC_0027634,nv,follow_up,60.0,female,abdomen,nv detected.
+HAM_0001931,ISIC_0026755,nv,follow_up,45.0,female,upper extremity,Clinical image showing nv on the upper extremity.
+HAM_0001842,ISIC_0028359,nv,follow_up,45.0,female,upper extremity,female patient showing signs of nv.
+HAM_0003255,ISIC_0026172,nv,follow_up,50.0,female,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0006668,ISIC_0027808,nv,follow_up,50.0,female,abdomen,Observed nv on the abdomen of a middle-aged female.
+HAM_0000776,ISIC_0027339,nv,follow_up,50.0,female,lower extremity,female patient showing signs of nv.
+HAM_0000598,ISIC_0026557,nv,follow_up,50.0,female,back,female patient showing signs of nv.
+HAM_0000323,ISIC_0027170,nv,follow_up,50.0,male,back,follow_up-confirmed nv lesion.
+HAM_0000692,ISIC_0025364,nv,follow_up,50.0,female,lower extremity,female patient showing signs of nv.
+HAM_0001579,ISIC_0025636,nv,follow_up,40.0,male,trunk,Patient presents with nv in the trunk.
+HAM_0002256,ISIC_0026214,nv,follow_up,40.0,male,abdomen,The abdomen shows signs of nv (follow_up).
+HAM_0004082,ISIC_0025676,nv,follow_up,40.0,male,back,nv lesion in the back of a middle-aged patient.
+HAM_0001367,ISIC_0029239,nv,follow_up,45.0,female,abdomen,Lesion observed on the abdomen.
+HAM_0001590,ISIC_0025722,nv,follow_up,50.0,male,lower extremity,Observed nv on the lower extremity of a middle-aged male.
+HAM_0006532,ISIC_0026435,nv,follow_up,50.0,female,abdomen,Image reveals nv lesion in the abdomen.
+HAM_0003405,ISIC_0024580,nv,follow_up,35.0,female,trunk,The trunk shows signs of nv (follow_up).
+HAM_0001553,ISIC_0025966,nv,follow_up,45.0,male,trunk,follow_up-confirmed nv lesion.
+HAM_0007336,ISIC_0024544,nv,follow_up,45.0,male,back,Observed nv on the back of a middle-aged male.
+HAM_0004933,ISIC_0025558,nv,follow_up,45.0,female,lower extremity,Patient's lower extremity affected by nv.
+HAM_0006166,ISIC_0028805,nv,follow_up,50.0,female,abdomen,The abdomen shows signs of nv (follow_up).
+HAM_0004702,ISIC_0028462,nv,follow_up,45.0,female,trunk,Image reveals nv lesion in the trunk.
+HAM_0005800,ISIC_0028864,nv,follow_up,40.0,female,upper extremity,Lesion observed on the upper extremity.
+HAM_0006671,ISIC_0027843,nv,follow_up,60.0,male,lower extremity,nv detected.
+HAM_0001523,ISIC_0028523,nv,follow_up,55.0,male,lower extremity,Case of nv confirmed via follow_up.
+HAM_0003383,ISIC_0026594,nv,follow_up,50.0,male,back,Patient presents with nv in the back.
+HAM_0001140,ISIC_0024884,nv,follow_up,55.0,male,back,This middle-aged male shows nv on the back.
+HAM_0000652,ISIC_0028597,nv,follow_up,40.0,female,upper extremity,Case of nv confirmed via follow_up.
+HAM_0006523,ISIC_0027919,nv,follow_up,40.0,female,lower extremity,This middle-aged female shows nv on the lower extremity.
+HAM_0002124,ISIC_0025175,nv,follow_up,50.0,female,upper extremity,The upper extremity shows signs of nv (follow_up).
+HAM_0002013,ISIC_0026168,nv,follow_up,35.0,male,abdomen,nv (follow_up) on the abdomen.
+HAM_0000768,ISIC_0028242,nv,follow_up,35.0,male,back,This adult male shows nv on the back.
+HAM_0002815,ISIC_0025298,nv,follow_up,35.0,male,lower extremity,follow_up-confirmed nv lesion.
+HAM_0001431,ISIC_0028142,nv,follow_up,35.0,male,lower extremity,Patient presents with nv in the lower extremity.
+HAM_0003457,ISIC_0024887,nv,follow_up,35.0,male,lower extremity,male patient showing signs of nv.
+HAM_0002900,ISIC_0024985,nv,follow_up,75.0,female,trunk,nv lesion in the trunk of a elderly patient.
+HAM_0002283,ISIC_0028869,nv,follow_up,40.0,female,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0004683,ISIC_0026079,nv,follow_up,35.0,female,back,Dermoscopic image of nv in the back.
+HAM_0006792,ISIC_0026460,nv,follow_up,45.0,male,trunk,This middle-aged male shows nv on the trunk.
+HAM_0003151,ISIC_0024556,nv,follow_up,50.0,female,foot,Patient's foot affected by nv.
+HAM_0004834,ISIC_0025328,nv,follow_up,20.0,female,trunk,The trunk shows signs of nv (follow_up).
+HAM_0004678,ISIC_0025952,nv,follow_up,50.0,male,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0006611,ISIC_0028985,nv,follow_up,45.0,female,lower extremity,nv (follow_up) on the lower extremity.
+HAM_0004619,ISIC_0025664,nv,follow_up,50.0,female,lower extremity,A follow_up report confirms nv in the lower extremity.
+HAM_0003025,ISIC_0027440,nv,follow_up,35.0,female,trunk,Patient's trunk affected by nv.
+HAM_0006911,ISIC_0025747,nv,follow_up,35.0,female,trunk,Case of nv confirmed via follow_up.
+HAM_0004664,ISIC_0027566,nv,follow_up,5.0,male,abdomen,Case of nv confirmed via follow_up.
+HAM_0003231,ISIC_0025028,nv,follow_up,45.0,female,lower extremity,Medical image of nv.
+HAM_0003595,ISIC_0027621,nv,follow_up,40.0,female,trunk,middle-aged female patient with nv.
+HAM_0000520,ISIC_0026415,nv,follow_up,5.0,male,upper extremity,Clinical image showing nv on the upper extremity.
+HAM_0007408,ISIC_0028377,nv,follow_up,5.0,male,back,young male patient with nv.
+HAM_0003751,ISIC_0026302,nv,follow_up,55.0,female,genital,middle-aged female patient with nv lesion.
+HAM_0003412,ISIC_0026241,nv,follow_up,50.0,female,back,nv detected.
+HAM_0004629,ISIC_0027019,nv,follow_up,45.0,female,abdomen,nv lesion in the abdomen of a middle-aged patient.
+HAM_0001882,ISIC_0025866,nv,follow_up,55.0,female,trunk,A follow_up report confirms nv in the trunk.
+HAM_0004404,ISIC_0025822,nv,follow_up,55.0,male,neck,Clinical image showing nv on the neck.
+HAM_0006996,ISIC_0027610,nv,follow_up,55.0,male,back,This middle-aged male shows nv on the back.
+HAM_0007365,ISIC_0028798,nv,follow_up,65.0,female,lower extremity,Lesion observed on the lower extremity.
+HAM_0004628,ISIC_0027405,nv,follow_up,45.0,male,foot,Clinical image showing nv on the foot.
+HAM_0007254,ISIC_0027541,nv,follow_up,50.0,female,lower extremity,Detected nv on the lower extremity.
+HAM_0004130,ISIC_0026173,nv,follow_up,45.0,female,lower extremity,middle-aged female patient with nv lesion.
+HAM_0007082,ISIC_0027971,nv,follow_up,55.0,female,lower extremity,Observed nv on the lower extremity of a middle-aged female.
+HAM_0006311,ISIC_0024392,nv,follow_up,65.0,female,lower extremity,Medical image of nv.
+HAM_0005377,ISIC_0028936,nv,follow_up,65.0,male,abdomen,Detected nv on the abdomen.
+HAM_0006348,ISIC_0027110,nv,follow_up,65.0,male,back,Dermoscopic image of nv in the back.
+HAM_0000158,ISIC_0025082,nv,follow_up,45.0,female,back,Medical image of nv.
+HAM_0002779,ISIC_0026515,nv,follow_up,45.0,female,lower extremity,middle-aged female patient with nv lesion.
+HAM_0005849,ISIC_0028647,nv,follow_up,40.0,female,lower extremity,female patient showing signs of nv.
+HAM_0003214,ISIC_0028745,nv,follow_up,60.0,female,foot,Image reveals nv lesion in the foot.
+HAM_0005179,ISIC_0024957,nv,follow_up,80.0,male,lower extremity,Detected nv on the lower extremity.
+HAM_0003264,ISIC_0027723,nv,follow_up,50.0,male,upper extremity,Observed nv on the upper extremity of a middle-aged male.
+HAM_0004540,ISIC_0027357,nv,follow_up,50.0,male,back,This middle-aged male shows nv on the back.
+HAM_0006712,ISIC_0025072,nv,follow_up,65.0,male,trunk,The trunk shows signs of nv (follow_up).
+HAM_0001558,ISIC_0025007,nv,follow_up,50.0,female,lower extremity,Medical image of nv.
+HAM_0001754,ISIC_0027775,nv,follow_up,65.0,male,lower extremity,Observed nv on the lower extremity of a elderly male.
+HAM_0007496,ISIC_0028083,nv,follow_up,55.0,male,trunk,Clinical image showing nv on the trunk.
+HAM_0001843,ISIC_0028279,nv,follow_up,70.0,male,trunk,nv (follow_up) on the trunk.
+HAM_0000475,ISIC_0027299,nv,follow_up,40.0,male,lower extremity,middle-aged male patient with nv lesion.
+HAM_0003762,ISIC_0024736,nv,follow_up,40.0,male,trunk,Patient's trunk affected by nv.
+HAM_0000641,ISIC_0027477,nv,follow_up,60.0,male,lower extremity,Medical image of nv.
+HAM_0002614,ISIC_0027637,nv,follow_up,75.0,male,trunk,Observed nv on the trunk of a elderly male.
+HAM_0003714,ISIC_0026064,nv,follow_up,55.0,female,abdomen,Observed nv on the abdomen of a middle-aged female.
+HAM_0006109,ISIC_0028459,nv,follow_up,70.0,female,lower extremity,This elderly female shows nv on the lower extremity.
+HAM_0001109,ISIC_0027636,nv,follow_up,60.0,male,trunk,Clinical image showing nv on the trunk.
+HAM_0006307,ISIC_0024570,nv,follow_up,50.0,male,back,Image reveals nv lesion in the back.
+HAM_0000654,ISIC_0027799,nv,follow_up,45.0,male,abdomen,Observed nv on the abdomen of a middle-aged male.
+HAM_0007198,ISIC_0026200,nv,follow_up,50.0,female,lower extremity,Observed nv on the lower extremity of a middle-aged female.
+HAM_0002931,ISIC_0028427,nv,follow_up,45.0,male,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0004262,ISIC_0025236,nv,follow_up,45.0,male,lower extremity,nv detected.
+HAM_0005067,ISIC_0026261,nv,follow_up,50.0,female,upper extremity,follow_up-confirmed nv lesion.
+HAM_0006373,ISIC_0028143,nv,follow_up,50.0,female,abdomen,Patient presents with nv in the abdomen.
+HAM_0005426,ISIC_0028902,nv,follow_up,40.0,female,lower extremity,female patient showing signs of nv.
+HAM_0002095,ISIC_0026244,nv,follow_up,50.0,male,back,A follow_up report confirms nv in the back.
+HAM_0007387,ISIC_0027119,nv,follow_up,75.0,female,abdomen,Detected nv on the abdomen.
+HAM_0002438,ISIC_0026527,nv,follow_up,75.0,female,trunk,follow_up-confirmed nv lesion.
+HAM_0006768,ISIC_0028284,nv,follow_up,55.0,female,lower extremity,Case of nv confirmed via follow_up.
+HAM_0003029,ISIC_0025685,nv,follow_up,50.0,female,abdomen,follow_up-confirmed nv lesion.
+HAM_0003432,ISIC_0027962,nv,follow_up,50.0,female,upper extremity,Image reveals nv lesion in the upper extremity.
+HAM_0004425,ISIC_0025147,nv,follow_up,40.0,female,lower extremity,Image reveals nv lesion in the lower extremity.
+HAM_0006404,ISIC_0026983,nv,follow_up,40.0,female,trunk,The trunk shows signs of nv (follow_up).
+HAM_0003783,ISIC_0024488,nv,follow_up,55.0,female,trunk,Patient's trunk affected by nv.
+HAM_0001281,ISIC_0027048,nv,follow_up,55.0,female,lower extremity,Observed nv on the lower extremity of a middle-aged female.
+HAM_0006731,ISIC_0026683,nv,follow_up,30.0,male,abdomen,Clinical image showing nv on the abdomen.
+HAM_0003733,ISIC_0025448,nv,follow_up,40.0,female,lower extremity,A follow_up report confirms nv in the lower extremity.
+HAM_0000315,ISIC_0027474,nv,follow_up,45.0,male,abdomen,middle-aged male patient with nv.
+HAM_0000314,ISIC_0024621,nv,follow_up,70.0,male,abdomen,This elderly male shows nv on the abdomen.
+HAM_0002550,ISIC_0027682,nv,follow_up,35.0,female,lower extremity,adult female patient with nv.
+HAM_0003806,ISIC_0028667,nv,follow_up,45.0,female,lower extremity,This middle-aged female shows nv on the lower extremity.
+HAM_0002339,ISIC_0026597,nv,follow_up,75.0,female,trunk,Patient's trunk affected by nv.
+HAM_0003552,ISIC_0029084,nv,follow_up,45.0,male,abdomen,Case of nv confirmed via follow_up.
+HAM_0004727,ISIC_0028250,nv,follow_up,45.0,female,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0006585,ISIC_0024455,nv,follow_up,45.0,female,upper extremity,middle-aged female patient with nv.
+HAM_0006412,ISIC_0027720,nv,follow_up,45.0,female,abdomen,follow_up-confirmed nv lesion.
+HAM_0001194,ISIC_0028991,nv,follow_up,45.0,female,lower extremity,Patient's lower extremity affected by nv.
+HAM_0006989,ISIC_0028729,nv,follow_up,40.0,female,foot,Patient presents with nv in the foot.
+HAM_0002155,ISIC_0027696,nv,follow_up,40.0,female,back,Case of nv confirmed via follow_up.
+HAM_0003942,ISIC_0029024,nv,follow_up,45.0,male,abdomen,A follow_up report confirms nv in the abdomen.
+HAM_0004728,ISIC_0026779,nv,follow_up,45.0,male,trunk,The trunk shows signs of nv (follow_up).
+HAM_0004166,ISIC_0028313,nv,follow_up,45.0,male,back,The back shows signs of nv (follow_up).
+HAM_0003461,ISIC_0027833,nv,follow_up,50.0,female,unknown,Patient's unknown affected by nv.
+HAM_0007154,ISIC_0024719,nv,follow_up,70.0,male,upper extremity,Lesion observed on the upper extremity.
+HAM_0006534,ISIC_0028778,nv,follow_up,55.0,female,lower extremity,nv detected.
+HAM_0004969,ISIC_0025521,nv,follow_up,55.0,female,lower extremity,follow_up-confirmed nv lesion.
+HAM_0004845,ISIC_0026486,nv,follow_up,50.0,male,trunk,Patient presents with nv in the trunk.
+HAM_0002362,ISIC_0025307,nv,follow_up,40.0,male,back,nv (follow_up) on the back.
+HAM_0000224,ISIC_0024542,nv,follow_up,40.0,male,upper extremity,Case of nv confirmed via follow_up.
+HAM_0000528,ISIC_0028782,nv,follow_up,45.0,male,lower extremity,Image reveals nv lesion in the lower extremity.
+HAM_0005799,ISIC_0025827,nv,follow_up,50.0,male,abdomen,This middle-aged male shows nv on the abdomen.
+HAM_0003436,ISIC_0027940,nv,follow_up,40.0,male,back,follow_up-confirmed nv lesion.
+HAM_0001672,ISIC_0024398,nv,follow_up,65.0,female,trunk,Dermoscopic image of nv in the trunk.
+HAM_0004567,ISIC_0027372,nv,follow_up,70.0,male,trunk,follow_up-confirmed nv lesion.
+HAM_0006096,ISIC_0025190,nv,follow_up,55.0,female,abdomen,Image reveals nv lesion in the abdomen.
+HAM_0000084,ISIC_0028036,nv,follow_up,70.0,male,abdomen,Detected nv on the abdomen.
+HAM_0007135,ISIC_0024460,nv,follow_up,50.0,female,neck,Clinical image showing nv on the neck.
+HAM_0004577,ISIC_0027134,nv,follow_up,65.0,male,trunk,Medical image of nv.
+HAM_0006698,ISIC_0026771,nv,follow_up,65.0,male,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0002132,ISIC_0027647,nv,follow_up,65.0,male,lower extremity,Image reveals nv lesion in the lower extremity.
+HAM_0005221,ISIC_0029019,nv,follow_up,40.0,male,trunk,Image reveals nv lesion in the trunk.
+HAM_0003921,ISIC_0025728,nv,follow_up,50.0,male,trunk,Lesion observed on the trunk.
+HAM_0004855,ISIC_0026642,nv,follow_up,50.0,male,back,Observed nv on the back of a middle-aged male.
+HAM_0000252,ISIC_0024953,nv,follow_up,45.0,female,trunk,Clinical image showing nv on the trunk.
+HAM_0002446,ISIC_0028521,nv,follow_up,50.0,female,foot,Clinical image showing nv on the foot.
+HAM_0007605,ISIC_0024699,nv,follow_up,25.0,female,trunk,Case of nv confirmed via follow_up.
+HAM_0000919,ISIC_0025204,nv,follow_up,35.0,female,trunk,The trunk shows signs of nv (follow_up).
+HAM_0004218,ISIC_0028256,nv,follow_up,60.0,male,trunk,Patient presents with nv in the trunk.
+HAM_0007473,ISIC_0025858,nv,follow_up,60.0,male,upper extremity,Medical image of nv.
+HAM_0007628,ISIC_0027059,nv,follow_up,60.0,female,back,A follow_up report confirms nv in the back.
+HAM_0004977,ISIC_0028740,nv,follow_up,65.0,male,upper extremity,This elderly male shows nv on the upper extremity.
+HAM_0002351,ISIC_0028788,nv,follow_up,65.0,male,trunk,Medical image of nv.
+HAM_0006999,ISIC_0027459,nv,follow_up,40.0,male,trunk,Patient presents with nv in the trunk.
+HAM_0001564,ISIC_0027913,nv,follow_up,40.0,male,foot,A follow_up report confirms nv in the foot.
+HAM_0001257,ISIC_0024614,nv,follow_up,35.0,female,abdomen,Lesion observed on the abdomen.
+HAM_0005803,ISIC_0028717,nv,follow_up,55.0,male,abdomen,Patient's abdomen affected by nv.
+HAM_0007231,ISIC_0029114,nv,follow_up,60.0,female,trunk,Lesion observed on the trunk.
+HAM_0006286,ISIC_0027619,nv,follow_up,40.0,male,trunk,Lesion observed on the trunk.
+HAM_0006741,ISIC_0025886,nv,follow_up,45.0,female,lower extremity,nv detected.
+HAM_0002638,ISIC_0028096,nv,follow_up,70.0,male,trunk,Patient presents with nv in the trunk.
+HAM_0000409,ISIC_0025829,nv,follow_up,45.0,male,abdomen,Image reveals nv lesion in the abdomen.
+HAM_0006254,ISIC_0024633,nv,follow_up,45.0,male,lower extremity,follow_up-confirmed nv lesion.
+HAM_0001851,ISIC_0027015,nv,follow_up,45.0,male,foot,follow_up-confirmed nv lesion.
+HAM_0003643,ISIC_0027923,nv,follow_up,50.0,female,back,nv lesion in the back of a middle-aged patient.
+HAM_0001873,ISIC_0029283,nv,follow_up,50.0,female,trunk,follow_up-confirmed nv lesion.
+HAM_0003888,ISIC_0028672,nv,follow_up,50.0,female,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0001583,ISIC_0025280,nv,follow_up,35.0,female,trunk,nv (follow_up) on the trunk.
+HAM_0002830,ISIC_0025796,nv,follow_up,75.0,male,abdomen,nv detected.
+HAM_0007405,ISIC_0027694,nv,follow_up,45.0,male,abdomen,middle-aged male patient with nv lesion.
+HAM_0003598,ISIC_0028725,nv,follow_up,40.0,male,back,Case of nv confirmed via follow_up.
+HAM_0004597,ISIC_0027050,nv,follow_up,40.0,male,upper extremity,This middle-aged male shows nv on the upper extremity.
+HAM_0006849,ISIC_0028189,nv,follow_up,60.0,male,back,elderly male patient with nv lesion.
+HAM_0004353,ISIC_0029262,nv,follow_up,55.0,female,face,female patient showing signs of nv.
+HAM_0001081,ISIC_0026278,nv,follow_up,50.0,male,trunk,This middle-aged male shows nv on the trunk.
+HAM_0005897,ISIC_0027511,nv,follow_up,50.0,male,lower extremity,Patient's lower extremity affected by nv.
+HAM_0004119,ISIC_0025015,nv,follow_up,40.0,female,trunk,Dermoscopic image of nv in the trunk.
+HAM_0001199,ISIC_0025802,nv,follow_up,45.0,female,trunk,nv lesion in the trunk of a middle-aged patient.
+HAM_0000663,ISIC_0027761,nv,follow_up,50.0,male,trunk,The trunk shows signs of nv (follow_up).
+HAM_0007048,ISIC_0029284,nv,follow_up,45.0,female,abdomen,The abdomen shows signs of nv (follow_up).
+HAM_0000732,ISIC_0026183,nv,follow_up,35.0,male,trunk,nv lesion in the trunk of a adult patient.
+HAM_0002168,ISIC_0028002,nv,follow_up,35.0,male,back,adult male patient with nv.
+HAM_0003923,ISIC_0025282,nv,follow_up,35.0,male,trunk,Medical image of nv.
+HAM_0002412,ISIC_0026287,nv,follow_up,35.0,male,lower extremity,male patient showing signs of nv.
+HAM_0004228,ISIC_0027748,nv,follow_up,65.0,male,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0006565,ISIC_0027489,nv,follow_up,80.0,male,trunk,elderly male patient with nv lesion.
+HAM_0006175,ISIC_0024954,nv,follow_up,35.0,male,back,This adult male shows nv on the back.
+HAM_0004339,ISIC_0026332,nv,follow_up,75.0,male,lower extremity,follow_up-confirmed nv lesion.
+HAM_0004115,ISIC_0027676,nv,follow_up,50.0,female,lower extremity,Dermoscopic image of nv in the lower extremity.
+HAM_0001660,ISIC_0027078,nv,follow_up,75.0,male,abdomen,The abdomen shows signs of nv (follow_up).
+HAM_0002932,ISIC_0027841,nv,follow_up,60.0,male,lower extremity,Case of nv confirmed via follow_up.
+HAM_0005595,ISIC_0029180,nv,follow_up,70.0,male,trunk,Observed nv on the trunk of a elderly male.
+HAM_0002156,ISIC_0024802,nv,follow_up,65.0,male,trunk,Dermoscopic image of nv in the trunk.
+HAM_0002146,ISIC_0025686,nv,follow_up,65.0,male,trunk,Clinical image showing nv on the trunk.
+HAM_0006788,ISIC_0026482,nv,follow_up,65.0,male,back,Image reveals nv lesion in the back.
+HAM_0001268,ISIC_0025535,nv,follow_up,50.0,female,lower extremity,female patient showing signs of nv.
+HAM_0002272,ISIC_0025371,nv,follow_up,65.0,male,back,Detected nv on the back.
+HAM_0004512,ISIC_0027977,nv,follow_up,55.0,male,abdomen,middle-aged male patient with nv.
+HAM_0003085,ISIC_0027809,nv,follow_up,45.0,female,trunk,middle-aged female patient with nv lesion.
+HAM_0003718,ISIC_0025233,nv,follow_up,50.0,male,lower extremity,nv (follow_up) on the lower extremity.
+HAM_0002884,ISIC_0028251,nv,follow_up,55.0,female,lower extremity,Clinical image showing nv on the lower extremity.
+HAM_0000937,ISIC_0025344,nv,follow_up,40.0,female,trunk,middle-aged female patient with nv.
+HAM_0003963,ISIC_0027448,nv,follow_up,45.0,female,lower extremity,middle-aged female patient with nv lesion.
+HAM_0000192,ISIC_0025595,nv,follow_up,45.0,female,upper extremity,Case of nv confirmed via follow_up.
+HAM_0002840,ISIC_0027424,nv,follow_up,45.0,female,back,Image reveals nv lesion in the back.
+HAM_0003526,ISIC_0027070,nv,follow_up,30.0,male,trunk,Patient's trunk affected by nv.
+HAM_0006394,ISIC_0027635,nv,follow_up,50.0,male,foot,nv detected.
+HAM_0007330,ISIC_0024521,nv,follow_up,45.0,female,trunk,nv detected.
+HAM_0001472,ISIC_0024334,nv,follow_up,45.0,female,trunk,Observed nv on the trunk of a middle-aged female.
+HAM_0003417,ISIC_0027891,nv,follow_up,40.0,male,lower extremity,Dermoscopic image of nv in the lower extremity.
+HAM_0003804,ISIC_0026617,nv,follow_up,40.0,female,trunk,Case of nv confirmed via follow_up.
+HAM_0004401,ISIC_0027817,nv,follow_up,40.0,female,genital,female patient showing signs of nv.
+HAM_0007084,ISIC_0025315,nv,follow_up,40.0,female,back,middle-aged female patient with nv.
+HAM_0004870,ISIC_0024751,nv,follow_up,45.0,male,lower extremity,Patient's lower extremity affected by nv.
+HAM_0006781,ISIC_0025765,nv,follow_up,45.0,female,trunk,This middle-aged female shows nv on the trunk.
+HAM_0004452,ISIC_0027381,nv,follow_up,35.0,male,trunk,Dermoscopic image of nv in the trunk.
+HAM_0005549,ISIC_0028802,nv,follow_up,50.0,female,trunk,Lesion observed on the trunk.
+HAM_0000848,ISIC_0026294,nv,follow_up,50.0,female,trunk,Image reveals nv lesion in the trunk.
+HAM_0002063,ISIC_0024819,nv,follow_up,70.0,female,lower extremity,Patient presents with nv in the lower extremity.
+HAM_0005744,ISIC_0025880,nv,follow_up,50.0,male,abdomen,Observed nv on the abdomen of a middle-aged male.
+HAM_0000939,ISIC_0028620,nv,follow_up,35.0,female,trunk,Detected nv on the trunk.
+HAM_0000029,ISIC_0026815,nv,follow_up,45.0,male,trunk,Patient's trunk affected by nv.
+HAM_0001635,ISIC_0028240,nv,follow_up,80.0,male,lower extremity,follow_up-confirmed nv lesion.
+HAM_0000011,ISIC_0024678,nv,follow_up,45.0,female,trunk,follow_up-confirmed nv lesion.
+HAM_0004529,ISIC_0029245,nv,follow_up,65.0,male,trunk,Patient presents with nv in the trunk.
+HAM_0004509,ISIC_0028028,nv,follow_up,45.0,male,trunk,nv lesion in the trunk of a middle-aged patient.
+HAM_0004403,ISIC_0028006,nv,follow_up,45.0,male,trunk,nv detected.
+HAM_0003889,ISIC_0026005,nv,follow_up,45.0,male,back,Clinical image showing nv on the back.
+HAM_0003736,ISIC_0026373,nv,follow_up,40.0,male,lower extremity,The lower extremity shows signs of nv (follow_up).
+HAM_0004313,ISIC_0026924,nv,follow_up,50.0,female,abdomen,Medical image of nv.
+HAM_0003740,ISIC_0026568,nv,follow_up,55.0,male,trunk,Observed nv on the trunk of a middle-aged male.
+HAM_0004782,ISIC_0026264,nv,follow_up,75.0,male,upper extremity,nv lesion in the upper extremity of a elderly patient.
+HAM_0003333,ISIC_0028379,nv,follow_up,35.0,female,back,Medical image of nv.
+HAM_0001080,ISIC_0028762,nv,follow_up,35.0,female,back,Observed nv on the back of a adult female.
+HAM_0003024,ISIC_0024768,nv,follow_up,35.0,female,trunk,Clinical image showing nv on the trunk.
+HAM_0000306,ISIC_0029253,nv,follow_up,65.0,female,trunk,Patient's trunk affected by nv.
+HAM_0006331,ISIC_0029229,nv,follow_up,40.0,male,back,Detected nv on the back.
+HAM_0003474,ISIC_0025212,nv,follow_up,40.0,male,trunk,middle-aged male patient with nv lesion.
+HAM_0001823,ISIC_0027882,nv,follow_up,40.0,male,back,Medical image of nv.
+HAM_0001317,ISIC_0027995,nv,follow_up,45.0,male,back,Detected nv on the back.
+HAM_0002278,ISIC_0026353,nv,follow_up,40.0,male,trunk,Observed nv on the trunk of a middle-aged male.
+HAM_0002360,ISIC_0028024,nv,follow_up,45.0,male,upper extremity,Dermoscopic image of nv in the upper extremity.
+HAM_0006897,ISIC_0028475,nv,follow_up,35.0,male,trunk,adult male patient with nv.
+HAM_0002485,ISIC_0028351,nv,follow_up,35.0,male,upper extremity,adult male patient with nv lesion.
+HAM_0001549,ISIC_0026723,nv,follow_up,35.0,male,lower extremity,Dermoscopic image of nv in the lower extremity.
+HAM_0005680,ISIC_0027177,nv,follow_up,25.0,male,trunk,Clinical image showing nv on the trunk.
+HAM_0006195,ISIC_0028267,nv,follow_up,45.0,male,trunk,Case of nv confirmed via follow_up.
+HAM_0002236,ISIC_0027894,nv,follow_up,45.0,female,abdomen,Detected nv on the abdomen.
+HAM_0005507,ISIC_0029159,nv,follow_up,35.0,male,trunk,Clinical image showing nv on the trunk.
+HAM_0006229,ISIC_0027733,nv,follow_up,40.0,male,trunk,The trunk shows signs of nv (follow_up).
+HAM_0000223,ISIC_0027968,nv,follow_up,40.0,male,upper extremity,This middle-aged male shows nv on the upper extremity.
+HAM_0006293,ISIC_0027314,nv,follow_up,60.0,male,trunk,nv lesion in the trunk of a elderly patient.
+HAM_0001866,ISIC_0026873,nv,follow_up,55.0,female,trunk,Dermoscopic image of nv in the trunk.
+HAM_0003907,ISIC_0027587,nv,follow_up,60.0,male,upper extremity,Image reveals nv lesion in the upper extremity.
+HAM_0006677,ISIC_0025426,nv,follow_up,60.0,male,trunk,nv (follow_up) on the trunk.
+HAM_0004028,ISIC_0028526,nv,follow_up,30.0,female,lower extremity,adult female patient with nv.
+HAM_0003706,ISIC_0028099,nv,follow_up,50.0,male,trunk,middle-aged male patient with nv lesion.
+HAM_0001016,ISIC_0028845,nv,follow_up,35.0,male,abdomen,adult male patient with nv lesion.
+HAM_0003953,ISIC_0027158,nv,follow_up,45.0,male,back,Detected nv on the back.
+HAM_0000333,ISIC_0029098,nv,follow_up,40.0,male,hand,Detected nv on the hand.
+HAM_0000454,ISIC_0025522,nv,follow_up,35.0,female,abdomen,nv (follow_up) on the abdomen.
+HAM_0002331,ISIC_0028068,nv,follow_up,35.0,female,lower extremity,Medical image of nv.
+HAM_0006804,ISIC_0028341,nv,follow_up,45.0,male,abdomen,Observed nv on the abdomen of a middle-aged male.
+HAM_0003687,ISIC_0027515,nv,follow_up,40.0,female,foot,Clinical image showing nv on the foot.
+HAM_0006136,ISIC_0028910,nv,follow_up,40.0,female,trunk,Lesion observed on the trunk.
+HAM_0003547,ISIC_0027921,nv,follow_up,50.0,male,lower extremity,nv (follow_up) on the lower extremity.
+HAM_0003244,ISIC_0027368,nv,follow_up,60.0,male,abdomen,Patient presents with nv in the abdomen.
+HAM_0002780,ISIC_0028732,nv,follow_up,70.0,male,lower extremity,A follow_up report confirms nv in the lower extremity.
+HAM_0006439,ISIC_0028423,nv,histo,30.0,female,neck,Case of nv confirmed via histo.
+HAM_0001107,ISIC_0027644,nv,histo,40.0,male,upper extremity,A histo report confirms nv in the upper extremity.
+HAM_0003230,ISIC_0027839,nv,histo,45.0,male,abdomen,Clinical image showing nv on the abdomen.
+HAM_0001869,ISIC_0027249,nv,histo,55.0,female,hand,Lesion observed on the hand.
+HAM_0000900,ISIC_0026666,nv,histo,25.0,female,back,nv (histo) on the back.
+HAM_0006389,ISIC_0027738,nv,histo,70.0,male,back,Image reveals nv lesion in the back.
+HAM_0004699,ISIC_0027497,nv,histo,10.0,female,hand,young female patient with nv lesion.
+HAM_0006974,ISIC_0026541,nv,histo,45.0,male,abdomen,A histo report confirms nv in the abdomen.
+HAM_0006826,ISIC_0025129,nv,histo,35.0,female,back,nv lesion in the back of a adult patient.
+HAM_0007373,ISIC_0024869,nv,histo,45.0,male,back,Patient presents with nv in the back.
+HAM_0004761,ISIC_0027548,nv,histo,10.0,female,upper extremity,Detected nv on the upper extremity.
+HAM_0007468,ISIC_0024831,nv,histo,50.0,female,upper extremity,Patient's upper extremity affected by nv.
+HAM_0002106,ISIC_0026186,nv,histo,45.0,male,foot,A histo report confirms nv in the foot.
+HAM_0003663,ISIC_0026403,nv,histo,25.0,female,genital,The genital shows signs of nv (histo).
+HAM_0003462,ISIC_0025239,nv,histo,30.0,female,chest,female patient showing signs of nv.
+HAM_0005879,ISIC_0026084,nv,histo,80.0,male,lower extremity,elderly male patient with nv lesion.
+HAM_0007306,ISIC_0026810,nv,histo,30.0,male,back,This adult male shows nv on the back.
+HAM_0000348,ISIC_0028290,nv,histo,35.0,male,back,Dermoscopic image of nv in the back.
+HAM_0002740,ISIC_0027246,nv,histo,30.0,male,back,Case of nv confirmed via histo.
+HAM_0000054,ISIC_0025795,nv,histo,35.0,female,back,female patient showing signs of nv.
+HAM_0001745,ISIC_0025045,nv,histo,65.0,male,back,nv lesion in the back of a elderly patient.
+HAM_0000626,ISIC_0025267,nv,histo,35.0,female,foot,A histo report confirms nv in the foot.
+HAM_0007528,ISIC_0027003,nv,histo,25.0,female,lower extremity,Patient's lower extremity affected by nv.
+HAM_0003639,ISIC_0028894,nv,histo,60.0,female,abdomen,Lesion observed on the abdomen.
+HAM_0003044,ISIC_0028544,nv,histo,55.0,male,back,middle-aged male patient with nv lesion.
+HAM_0000397,ISIC_0024538,nv,histo,35.0,male,trunk,This adult male shows nv on the trunk.
+HAM_0003276,ISIC_0024975,nv,histo,35.0,female,trunk,A histo report confirms nv in the trunk.
+HAM_0004895,ISIC_0027519,nv,histo,40.0,female,foot,The foot shows signs of nv (histo).
+HAM_0000222,ISIC_0027658,nv,histo,10.0,female,lower extremity,Dermoscopic image of nv in the lower extremity.
+HAM_0007480,ISIC_0024406,nv,histo,35.0,male,foot,Medical image of nv.
+HAM_0007358,ISIC_0028030,nv,histo,35.0,male,upper extremity,Lesion observed on the upper extremity.
+HAM_0005457,ISIC_0025039,nv,histo,75.0,male,back,A histo report confirms nv in the back.
+HAM_0003580,ISIC_0026030,nv,histo,50.0,female,lower extremity,This middle-aged female shows nv on the lower extremity.
+HAM_0005261,ISIC_0027390,nv,histo,35.0,female,abdomen,adult female patient with nv.
+HAM_0006077,ISIC_0027323,nv,histo,50.0,male,lower extremity,Lesion observed on the lower extremity.
+HAM_0001517,ISIC_0028825,nv,histo,30.0,female,back,Dermoscopic image of nv in the back.
+HAM_0006470,ISIC_0027978,nv,histo,60.0,male,back,This elderly male shows nv on the back.
+HAM_0002904,ISIC_0027213,nv,histo,65.0,male,trunk,Case of nv confirmed via histo.
+HAM_0006258,ISIC_0028484,nv,histo,10.0,female,upper extremity,young female patient with nv lesion.
+HAM_0007167,ISIC_0026400,nv,histo,75.0,male,back,Case of nv confirmed via histo.
+HAM_0007144,ISIC_0026599,nv,histo,70.0,female,back,The back shows signs of nv (histo).
+HAM_0005664,ISIC_0029001,nv,histo,45.0,male,abdomen,Patient's abdomen affected by nv.
+HAM_0002033,ISIC_0026739,nv,histo,25.0,female,unknown,histo-confirmed nv lesion.
+HAM_0003727,ISIC_0026404,nv,histo,60.0,male,back,The back shows signs of nv (histo).
+HAM_0007001,ISIC_0026573,nv,histo,60.0,female,lower extremity,This elderly female shows nv on the lower extremity.
+HAM_0000794,ISIC_0026340,nv,histo,40.0,female,lower extremity,Patient's lower extremity affected by nv.
+HAM_0000667,ISIC_0028551,nv,histo,75.0,male,lower extremity,Patient's lower extremity affected by nv.
+HAM_0007240,ISIC_0027988,nv,histo,65.0,female,back,Image reveals nv lesion in the back.
+HAM_0001492,ISIC_0025305,nv,histo,30.0,female,back,nv (histo) on the back.
+HAM_0004170,ISIC_0029046,nv,histo,65.0,male,abdomen,nv (histo) on the abdomen.
+HAM_0000591,ISIC_0026654,nv,histo,70.0,male,chest,Observed nv on the chest of a elderly male.
+HAM_0000674,ISIC_0028983,nv,histo,35.0,female,back,A histo report confirms nv in the back.
+HAM_0002497,ISIC_0025443,nv,histo,75.0,male,back,Lesion observed on the back.
+HAM_0006110,ISIC_0025289,nv,histo,50.0,male,back,nv (histo) on the back.
+HAM_0006881,ISIC_0028580,nv,histo,60.0,female,face,histo-confirmed nv lesion.
+HAM_0004836,ISIC_0026674,nv,histo,35.0,male,lower extremity,The lower extremity shows signs of nv (histo).
+HAM_0005017,ISIC_0027461,nv,histo,75.0,female,back,nv (histo) on the back.
+HAM_0004518,ISIC_0025967,nv,histo,35.0,female,upper extremity,The upper extremity shows signs of nv (histo).
+HAM_0002370,ISIC_0028945,nv,histo,65.0,male,back,nv lesion in the back of a elderly patient.
+HAM_0005230,ISIC_0027127,nv,histo,55.0,female,lower extremity,Medical image of nv.
+HAM_0000187,ISIC_0026260,nv,histo,55.0,male,back,nv lesion in the back of a middle-aged patient.
+HAM_0006262,ISIC_0027211,nv,consensus,75.0,female,back,Detected nv on the back.
+HAM_0005712,ISIC_0026451,nv,consensus,5.0,female,foot,female patient showing signs of nv.
+HAM_0001498,ISIC_0027523,nv,consensus,30.0,female,abdomen,nv (consensus) on the abdomen.
+HAM_0001265,ISIC_0026182,nv,consensus,45.0,female,foot,Observed nv on the foot of a middle-aged female.
+HAM_0001306,ISIC_0028272,nv,consensus,75.0,female,back,female patient showing signs of nv.
+HAM_0001902,ISIC_0026480,nv,consensus,5.0,female,lower extremity,A consensus report confirms nv in the lower extremity.
+HAM_0001393,ISIC_0027418,nv,consensus,55.0,female,back,Lesion observed on the back.
+HAM_0004857,ISIC_0029038,nv,consensus,70.0,male,lower extremity,Patient's lower extremity affected by nv.
+HAM_0006893,ISIC_0027084,akiec,histo,65.0,female,lower extremity,The lower extremity shows signs of akiec (histo).
+HAM_0004376,ISIC_0024843,akiec,histo,70.0,female,face,The face shows signs of akiec (histo).
+HAM_0003501,ISIC_0026927,akiec,histo,75.0,male,lower extremity,Dermoscopic image of akiec in the lower extremity.
+HAM_0000490,ISIC_0027303,akiec,histo,85.0,male,lower extremity,male patient showing signs of akiec.
+HAM_0005505,ISIC_0024450,akiec,histo,50.0,male,upper extremity,Case of akiec confirmed via histo.
+HAM_0006301,ISIC_0024771,akiec,histo,75.0,male,neck,Image reveals akiec lesion in the neck.
+HAM_0001460,ISIC_0025637,akiec,histo,75.0,male,face,Lesion observed on the face.
+HAM_0003895,ISIC_0026203,akiec,histo,70.0,male,back,akiec (histo) on the back.
+HAM_0003195,ISIC_0026319,akiec,histo,80.0,male,chest,Observed akiec on the chest of a elderly male.
+HAM_0000005,ISIC_0025577,akiec,histo,75.0,female,lower extremity,Observed akiec on the lower extremity of a elderly female.
+HAM_0001386,ISIC_0027668,akiec,histo,60.0,male,scalp,akiec detected.
+HAM_0001023,ISIC_0026468,akiec,histo,50.0,male,hand,akiec lesion in the hand of a middle-aged patient.
+HAM_0004033,ISIC_0027452,akiec,histo,70.0,male,upper extremity,Observed akiec on the upper extremity of a elderly male.
+HAM_0004034,ISIC_0027829,akiec,histo,55.0,female,face,Lesion observed on the face.
+HAM_0004472,ISIC_0025368,akiec,histo,40.0,female,face,female patient showing signs of akiec.
