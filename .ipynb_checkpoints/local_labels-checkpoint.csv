@@ -1,0 +1,74 @@
+image_id,lesion_id,bbox,conf,class,crop_path,local_label
+ISIC_0024701.jpg,0,"[1, 1, 593, 446]",0.297,55,crops\ISIC_0024701_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0024884.jpg,0,"[2, 0, 596, 448]",0.336,25,crops\ISIC_0024884_0.jpg,A light patch with uneven borders seen at the center center.
+ISIC_0024929.jpg,0,"[21, 0, 598, 447]",0.376,55,crops\ISIC_0024929_0.jpg,A brownish lesion showing uneven edges at the center center.
+ISIC_0024929.jpg,1,"[20, 1, 598, 445]",0.297,53,crops\ISIC_0024929_1.jpg,A brownish lesion showing uneven edges at the center center.
+ISIC_0024954.jpg,0,"[1, 0, 597, 445]",0.284,25,crops\ISIC_0024954_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0025136.jpg,0,"[2, 1, 597, 448]",0.309,54,crops\ISIC_0025136_0.jpg,An rough lesion with light pigmentation at the center center.
+ISIC_0025212.jpg,0,"[1, 0, 585, 449]",0.648,25,crops\ISIC_0025212_0.jpg,A light patch with blurred borders seen at the center center.
+ISIC_0025289.jpg,0,"[0, 311, 123, 449]",0.388,45,crops\ISIC_0025289_0.jpg,An irregular lesion with light pigmentation at the lower left.
+ISIC_0025289.jpg,1,"[0, 311, 123, 449]",0.367,41,crops\ISIC_0025289_1.jpg,An area of light skin showing irregular pattern at the lower left.
+ISIC_0025389.jpg,0,"[2, 0, 597, 444]",0.5,25,crops\ISIC_0025389_0.jpg,A light patch with blurred borders seen at the center center.
+ISIC_0025426.jpg,0,"[0, 0, 598, 447]",0.552,25,crops\ISIC_0025426_0.jpg,A light patch with uneven borders seen at the center center.
+ISIC_0025659.jpg,0,"[0, 1, 598, 449]",0.3,0,crops\ISIC_0025659_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0025728.jpg,0,"[2, 0, 598, 448]",0.391,25,crops\ISIC_0025728_0.jpg,A light lesion showing uneven edges at the center center.
+ISIC_0025751.jpg,0,"[149, 127, 418, 355]",0.739,54,crops\ISIC_0025751_0.jpg,A light patch with uneven borders seen at the center center.
+ISIC_0025822.jpg,0,"[3, 0, 598, 449]",0.458,25,crops\ISIC_0025822_0.jpg,A light patch with blurred borders seen at the center center.
+ISIC_0025838.jpg,0,"[2, 2, 579, 449]",0.489,55,crops\ISIC_0025838_0.jpg,An rough lesion with light pigmentation at the center center.
+ISIC_0025838.jpg,1,"[0, 0, 317, 74]",0.359,53,crops\ISIC_0025838_1.jpg,A light patch with well-defined borders seen at the upper left.
+ISIC_0025842.jpg,0,"[0, 0, 598, 448]",0.26,54,crops\ISIC_0025842_0.jpg,A light lesion with irregular texture located at the center center.
+ISIC_0026042.jpg,0,"[0, 0, 598, 448]",0.515,55,crops\ISIC_0026042_0.jpg,An area of light skin showing smooth pattern at the center center.
+ISIC_0026042.jpg,1,"[0, 0, 598, 448]",0.325,53,crops\ISIC_0026042_1.jpg,An smooth lesion with light pigmentation at the center center.
+ISIC_0026084.jpg,0,"[0, 1, 597, 448]",0.45,53,crops\ISIC_0026084_0.jpg,An smooth lesion with light pigmentation at the center center.
+ISIC_0026183.jpg,0,"[0, 1, 598, 447]",0.633,25,crops\ISIC_0026183_0.jpg,An irregular lesion with brownish pigmentation at the center center.
+ISIC_0026311.jpg,0,"[3, 0, 598, 449]",0.346,25,crops\ISIC_0026311_0.jpg,An area of light skin showing rough pattern at the center center.
+ISIC_0026340.jpg,0,"[544, 79, 568, 100]",0.577,14,crops\ISIC_0026340_0.jpg,An area of light skin showing irregular pattern at the upper right.
+ISIC_0026340.jpg,1,"[474, 14, 496, 37]",0.496,14,crops\ISIC_0026340_1.jpg,A light lesion with smooth texture located at the upper right.
+ISIC_0026340.jpg,2,"[507, 47, 530, 69]",0.454,14,crops\ISIC_0026340_2.jpg,A light lesion with smooth texture located at the upper right.
+ISIC_0026403.jpg,0,"[15, 0, 599, 436]",0.354,45,crops\ISIC_0026403_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0026403.jpg,1,"[65, 216, 476, 432]",0.25,44,crops\ISIC_0026403_1.jpg,An irregular lesion with brownish pigmentation at the lower center.
+ISIC_0026557.jpg,0,"[3, 0, 598, 449]",0.506,25,crops\ISIC_0026557_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0026739.jpg,0,"[6, 19, 597, 430]",0.389,55,crops\ISIC_0026739_0.jpg,A light lesion with rough texture located at the center center.
+ISIC_0026798.jpg,0,"[0, 0, 595, 448]",0.718,25,crops\ISIC_0026798_0.jpg,An rough lesion with light pigmentation at the center center.
+ISIC_0027003.jpg,0,"[4, 0, 596, 449]",0.521,55,crops\ISIC_0027003_0.jpg,A light lesion with rough texture located at the center center.
+ISIC_0027083.jpg,0,"[0, 1, 598, 448]",0.405,54,crops\ISIC_0027083_0.jpg,A light lesion with rough texture located at the center center.
+ISIC_0027170.jpg,0,"[2, 1, 598, 448]",0.369,25,crops\ISIC_0027170_0.jpg,A light patch with uneven borders seen at the center center.
+ISIC_0027218.jpg,0,"[170, 71, 456, 352]",0.289,54,crops\ISIC_0027218_0.jpg,An irregular lesion with brownish pigmentation at the center center.
+ISIC_0027295.jpg,0,"[134, 199, 180, 245]",0.268,14,crops\ISIC_0027295_0.jpg,A light patch with blurred borders seen at the center left.
+ISIC_0027303.jpg,0,"[0, 1, 595, 448]",0.751,53,crops\ISIC_0027303_0.jpg,An rough lesion with light pigmentation at the center center.
+ISIC_0027372.jpg,0,"[2, 1, 597, 441]",0.45,25,crops\ISIC_0027372_0.jpg,A brownish lesion with rough texture located at the center center.
+ISIC_0027424.jpg,0,"[106, 61, 504, 447]",0.352,15,crops\ISIC_0027424_0.jpg,An rough lesion with light pigmentation at the center center.
+ISIC_0027424.jpg,1,"[144, 88, 435, 348]",0.261,15,crops\ISIC_0027424_1.jpg,A brownish lesion showing blurred edges at the center center.
+ISIC_0027461.jpg,0,"[2, 0, 597, 448]",0.252,15,crops\ISIC_0027461_0.jpg,A pale lesion showing blurred edges at the center center.
+ISIC_0027474.jpg,0,"[0, 1, 595, 448]",0.508,25,crops\ISIC_0027474_0.jpg,An area of light skin showing rough pattern at the center center.
+ISIC_0027523.jpg,0,"[206, 100, 379, 348]",0.353,54,crops\ISIC_0027523_0.jpg,A light patch with blurred borders seen at the center center.
+ISIC_0027548.jpg,0,"[177, 132, 405, 322]",0.627,54,crops\ISIC_0027548_0.jpg,A brownish lesion with smooth texture located at the center center.
+ISIC_0027566.jpg,0,"[142, 165, 379, 326]",0.257,15,crops\ISIC_0027566_0.jpg,A brownish lesion showing well-defined edges at the center center.
+ISIC_0027621.jpg,0,"[162, 182, 471, 420]",0.604,54,crops\ISIC_0027621_0.jpg,A brownish patch with blurred borders seen at the lower center.
+ISIC_0027634.jpg,0,"[170, 102, 374, 303]",0.295,54,crops\ISIC_0027634_0.jpg,A brownish lesion showing uneven edges at the center center.
+ISIC_0027658.jpg,0,"[147, 27, 527, 416]",0.55,15,crops\ISIC_0027658_0.jpg,A brownish lesion showing uneven edges at the center center.
+ISIC_0027702.jpg,0,"[0, 0, 599, 448]",0.352,55,crops\ISIC_0027702_0.jpg,A light lesion with rough texture located at the center center.
+ISIC_0027817.jpg,0,"[2, 0, 598, 448]",0.309,25,crops\ISIC_0027817_0.jpg,An area of light skin showing smooth pattern at the center center.
+ISIC_0027891.jpg,0,"[0, 0, 599, 438]",0.29,25,crops\ISIC_0027891_0.jpg,A light lesion showing uneven edges at the center center.
+ISIC_0027977.jpg,0,"[0, 0, 598, 447]",0.803,25,crops\ISIC_0027977_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0027995.jpg,0,"[0, 0, 597, 445]",0.574,25,crops\ISIC_0027995_0.jpg,A light lesion showing well-defined edges at the center center.
+ISIC_0028030.jpg,0,"[83, 240, 144, 350]",0.581,40,crops\ISIC_0028030_0.jpg,An rough lesion with light pigmentation at the center left.
+ISIC_0028083.jpg,0,"[2, 0, 597, 448]",0.866,25,crops\ISIC_0028083_0.jpg,An rough lesion with light pigmentation at the center center.
+ISIC_0028094.jpg,0,"[0, 1, 598, 447]",0.831,53,crops\ISIC_0028094_0.jpg,A light patch with well-defined borders seen at the center center.
+ISIC_0028142.jpg,0,"[0, 2, 588, 437]",0.331,25,crops\ISIC_0028142_0.jpg,A light lesion with rough texture located at the center center.
+ISIC_0028256.jpg,0,"[0, 1, 598, 447]",0.881,25,crops\ISIC_0028256_0.jpg,A light lesion with smooth texture located at the center center.
+ISIC_0028351.jpg,0,"[3, 0, 595, 449]",0.773,25,crops\ISIC_0028351_0.jpg,A light patch with well-defined borders seen at the center center.
+ISIC_0028415.jpg,0,"[69, 69, 575, 399]",0.65,54,crops\ISIC_0028415_0.jpg,A light lesion showing blurred edges at the center center.
+ISIC_0028465.jpg,0,"[77, 0, 597, 441]",0.494,55,crops\ISIC_0028465_0.jpg,A light patch with well-defined borders seen at the center center.
+ISIC_0028465.jpg,1,"[81, 0, 595, 445]",0.261,54,crops\ISIC_0028465_1.jpg,An smooth lesion with light pigmentation at the center center.
+ISIC_0028484.jpg,0,"[144, 150, 435, 302]",0.451,54,crops\ISIC_0028484_0.jpg,An area of brownish skin showing irregular pattern at the center center.
+ISIC_0028856.jpg,0,"[1, 0, 597, 449]",0.294,53,crops\ISIC_0028856_0.jpg,A pale lesion showing well-defined edges at the center center.
+ISIC_0028936.jpg,0,"[1, 0, 598, 449]",0.658,25,crops\ISIC_0028936_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0028945.jpg,0,"[0, 1, 598, 448]",0.394,54,crops\ISIC_0028945_0.jpg,A light lesion showing well-defined edges at the center center.
+ISIC_0029019.jpg,0,"[0, 1, 598, 447]",0.646,25,crops\ISIC_0029019_0.jpg,An area of light skin showing irregular pattern at the center center.
+ISIC_0029024.jpg,0,"[2, 0, 596, 448]",0.295,25,crops\ISIC_0029024_0.jpg,An irregular lesion with light pigmentation at the center center.
+ISIC_0029115.jpg,0,"[546, 28, 567, 50]",0.263,14,crops\ISIC_0029115_0.jpg,An area of light skin showing smooth pattern at the upper right.
+ISIC_0029139.jpg,0,"[532, 45, 558, 66]",0.436,14,crops\ISIC_0029139_0.jpg,A brownish lesion with rough texture located at the upper right.
+ISIC_0029139.jpg,1,"[477, 2, 527, 40]",0.352,14,crops\ISIC_0029139_1.jpg,A brownish patch with blurred borders seen at the upper right.
+ISIC_0029161.jpg,0,"[125, 46, 433, 400]",0.464,47,crops\ISIC_0029161_0.jpg,A brownish lesion with rough texture located at the center center.
+ISIC_0029212.jpg,0,"[0, 0, 598, 448]",0.306,53,crops\ISIC_0029212_0.jpg,A light lesion showing blurred edges at the center center.
